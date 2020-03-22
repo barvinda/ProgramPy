@@ -8,4 +8,4 @@ Experience with:
   3) Using the zip function to read multiple lists at once.
   
 Included; 
-  data.json: data of all the Volcanoes
+  world.json: data of all the Volcanoes
